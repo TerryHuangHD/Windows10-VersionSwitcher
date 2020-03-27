@@ -12,8 +12,13 @@ This is a very simple batch script that allows you to switch between various ver
 
 ## Usage
 
-Download the batch script and double-click to run
+[Download](https://github.com/TerryHuangHD/Windows-10-Version-Switcher/releases) the batch script and double-click to run
 
 ## Hint
 
-Swtich from Home -> Pro VL is not allowed, needs to be converted to Pro at first
+Swtich from Home -> Pro VL is not directly allowed, needs to be converted to Pro at first
+
+## Statement
+* Repository does not contain any activation-related keys
+* KMS Client Setup Keys is public on Microsoft [website](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/jj612867(v=ws.11))
+* Windows, Windows 10 are trademarks of Microsoft Corporation
