@@ -1,4 +1,4 @@
-# Windows 10 Version Switcher
+![VersionSwitcher: Windows10 Version Switcher](https://raw.githubusercontent.com/TerryHuangHD/Windows10-VersionSwitcher/master/Logo.jpg)
 
 This is a very simple batch script that allows you to switch between various versions of Windows 10
 
