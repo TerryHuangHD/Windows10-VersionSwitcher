@@ -1,6 +1,6 @@
 ![VersionSwitcher: Windows10 Version Switcher](https://raw.githubusercontent.com/TerryHuangHD/Windows10-VersionSwitcher/master/Logo.jpg)
 
-This is a very simple batch script that allows you to switch between various versions of Windows 10
+This is a very simple batch script that allows you to switch between various versions of Windows 10 & Windows 11
 
 ## Support Version
 
@@ -21,4 +21,4 @@ Swtich from Home -> Pro VL is not directly allowed, needs to be converted to Pro
 ## Statement
 * Repository does not contain any activation-related keys
 * KMS Client Setup Keys is public on Microsoft [website](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/jj612867(v=ws.11))
-* Windows, Windows 10 are trademarks of Microsoft Corporation
+* Windows, Windows 10 & Windows 11 are trademarks of Microsoft Corporation
